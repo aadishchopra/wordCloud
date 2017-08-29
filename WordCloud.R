@@ -41,9 +41,8 @@ install_github("johndharrison/wdman")
 help("RSelenium")
 
 
-#################The code used for the wordcloud starts from here
-##########################The code used above can be used to automatically 
-#############fetch titles but it won't work when you are on Loyola server###
+#The code used above can be used to automatically fetch titles but it won't work when you are on Loyola server.
+#The code used for the wordcloud starts from here
 
 
 setwd(dir="C:/Users/achopra/Desktop/Research/Patient")
